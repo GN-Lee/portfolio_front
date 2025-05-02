@@ -22,12 +22,6 @@ export const metadata: Metadata = {
     name: "이광녕",
     url: "https://github.com/GN-Lee",
   },
-  openGraph: {
-    title: "광녕's 포트폴리오",
-    description:
-      "풀스택 개발자 이광녕의 포트폴리오입니다. 프론트 엔드와 백엔드를 활용한 프로젝트들을 소개합니다.",
-    images: "/로고.jpg",
-  },
   icons: {
     icon: "/로고.jpg",
     apple: "/로고.jpg",

@@ -34,7 +34,7 @@ export default function Home() {
           rotate: 360,
         }}
         transition={{
-          duration: 0.1,
+          duration: 0,
           ease: "linear",
         }}
       >
