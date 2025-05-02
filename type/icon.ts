@@ -1,5 +1,3 @@
-import React from "react";
-
 interface Skill {
   name: string;
   icon: string;
